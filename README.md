@@ -1,4 +1,4 @@
-ObjectivoÑ identificar los operadores ineficaces de la telefonia virtual CallMeMaybe. Este analisis servira de apoyo para los supervisores, en la toma de desiciones gerenciales a base de la eficiencia de cada operador.
+Objectivo: identificar los operadores ineficaces de la telefonia virtual CallMeMaybe. Este analisis servira de apoyo para los supervisores, en la toma de desiciones gerenciales a base de la eficiencia de cada operador.
 
 Conclusiones:
 - Se pudo determinar que si existe una relación entre las llamadas perdidas con el tiempo de espera. 
